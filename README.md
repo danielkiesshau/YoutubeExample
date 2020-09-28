@@ -6,4 +6,5 @@ Using Youtube API and SDK to search and play videos. For the purpose of practici
 2. Open and play video
 
 ## Screencshots
-<img width="250" alt="Video" src="https://i.imgur.com/KmcAuLH.png"/> <img width="250" alt="Search" src="https://i.imgur.com/aS520or.png"/>
+<img width="250" alt="Video" src="https://i.imgur.com/KmcAuLH.png"/> 
+<img width="250" alt="Search" src="https://i.imgur.com/aS520or.png"/>
