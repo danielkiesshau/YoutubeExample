@@ -1,5 +1,5 @@
 # Youtube example - Android JAVA
-Using Youtube API and SDK to search and play videos. For the purpose of practicing, I limited the search and videos available in the app to one channel.
+Using Youtube API with Retrofit to search, and youtube SDK to play videos. For the purpose of practicing, I limited the search and videos available in the app to one channel.
 
 ## Features implemented
 1. Search after pressing "submit" and reset search 
