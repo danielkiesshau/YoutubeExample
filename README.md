@@ -9,5 +9,5 @@ Using Youtube API and SDK to search and play videos. For the purpose of practici
 <img width="250" alt="Video" src="https://i.imgur.com/KmcAuLH.png"/>
 
 
-
+### Video player
 <img width="250" alt="Search" src="https://i.imgur.com/aS520or.png"/>
